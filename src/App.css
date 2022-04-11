@@ -1,0 +1,10 @@
+.App {
+    text-align: center;
+}
+
+.banner {
+    width: 80%;
+    height: 600px;
+    border: 1px solid red;
+    color: red;
+}
